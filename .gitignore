@@ -1,5 +1,5 @@
 .env
-mongo/
+/mongo
 node_modules/
 dist/
 build/
